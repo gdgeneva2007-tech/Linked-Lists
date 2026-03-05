@@ -1,0 +1,22 @@
+{
+  "name": "linked-lists",
+  "version": "1.0.0",
+  "description": "1. Inside a class, you omit the 'function' keyword and the const/let keywords",
+  "main": "main.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdgeneva2007-tech/Linked-Lists.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/gdgeneva2007-tech/Linked-Lists/issues"
+  },
+  "homepage": "https://github.com/gdgeneva2007-tech/Linked-Lists#readme"
+}
